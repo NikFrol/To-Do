@@ -1,0 +1,18 @@
+.app {
+  background: url('./43791933_640x640.jpeg');
+  height: 100vh;
+  padding: 30px;
+}
+
+.todolist {
+  background: #e8e8e8;
+  border-radius: 4px;
+  max-width: 50%;
+  min-width: 30%;
+  padding: 5px;
+  position:absolute;
+  top:45%;
+  left:34%;
+}
+
+
