@@ -21,7 +21,7 @@ const ToDoForm = ({ addTodo }) => {
                 className={s.input}
                 value={value}
                 onChange={e => setValue(e.target.value)}
-            />
+            /><button onClick={handleSubmit} className={s.button}>add todo</button>
         </form>
     );
 };
