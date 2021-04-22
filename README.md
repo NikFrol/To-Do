@@ -5,7 +5,7 @@ npm start -  Запускает приложение в режиме разра�
 
 
 
-Демоверсия приложения - https://dashboard.heroku.com/apps/my-tdo-app
+Демоверсия приложения - https://my-tdo-app.herokuapp.com/
 
 Демонстрация - https://user-images.githubusercontent.com/62148388/115673981-e2598f80-a355-11eb-88b9-f0f12cdab355.mp4
 
